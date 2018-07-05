@@ -1,0 +1,6 @@
+[package]
+name = "rust_tempcon"
+version = "0.1.0"
+authors = ["Matt Revell <mattrevell82@me.com>"]
+
+[dependencies]
