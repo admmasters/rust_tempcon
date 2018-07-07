@@ -21,3 +21,7 @@ cargo build
 ```
 ./target/debug/rust_tempcon
 ```
+or
+```
+cargo run
+```
